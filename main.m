@@ -1,4 +1,4 @@
-%% Project B Numerical solution of the heat equation
+%%Numerical solution of the heat equation
 
 
 
